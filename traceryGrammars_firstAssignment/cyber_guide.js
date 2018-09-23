@@ -106,7 +106,7 @@
   "mosaic window",
   "cyber eyes"
 
-]
+],
 "addresses":[
   "http://altavista.digital.com",
   "http://www.excite.com",
