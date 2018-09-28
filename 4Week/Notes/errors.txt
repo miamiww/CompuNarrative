@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label confused is defined twice, at
+  File "game/script.rpy", line 48 and
+  File "game/script.rpy", line 52.
+
+Ren'Py Version: Ren'Py 7.1.0.882
+Wed Sep 26 14:48:11 2018

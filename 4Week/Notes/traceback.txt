@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 51, in script
+    jump complete
+ScriptError: could not find label 'complete'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 51, in script
+    jump complete
+  File "/Users/aljones/ITP/Year2/1Semester/CompuNarrative/renpy-7.1/renpy/ast.py", line 1620, in execute
+    rv = renpy.game.script.lookup(target)
+  File "/Users/aljones/ITP/Year2/1Semester/CompuNarrative/renpy-7.1/renpy/script.py", line 873, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'complete'.
+
+Darwin-16.7.0-x86_64-i386-64bit
+Ren'Py 7.1.0.882
+Notes 1.0
+Wed Sep 26 14:47:17 2018
