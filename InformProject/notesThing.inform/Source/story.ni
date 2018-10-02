@@ -79,3 +79,5 @@ After going to the Watervine Marsh:
 
 After opening a chest:
     end the story saying "As soon as your hands touch the chest, the Warden wordlessly thrusts his sword through your back. You die."
+
+Release along with an interpreter.
