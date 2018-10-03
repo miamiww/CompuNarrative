@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 41: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "yeah that sounds really great actually, could you get me a fuckin mojito"
+                                                                              ^
+
+Ren'Py Version: Ren'Py 7.1.0.882
+Wed Oct  3 10:23:57 2018

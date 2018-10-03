@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 8, in script
+    define m = character("the mojito")
+  File "game/script.rpy", line 8, in <module>
+    define m = character("the mojito")
+NameError: name 'character' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 8, in script
+    define m = character("the mojito")
+  File "/Users/aljones/ITP/Year2/1Semester/CompuNarrative/renpy-7.1.0-sdk/renpy/ast.py", line 1966, in execute
+    value = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "/Users/aljones/ITP/Year2/1Semester/CompuNarrative/renpy-7.1.0-sdk/renpy/python.py", line 1937, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 8, in <module>
+    define m = character("the mojito")
+NameError: name 'character' is not defined
+
+Darwin-16.7.0-x86_64-i386-64bit
+Ren'Py 7.1.0.882
+beach_novel 1.0
+Wed Oct  3 10:49:10 2018

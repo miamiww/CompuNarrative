@@ -1,5 +1,5 @@
 .DS_Store
-renpy-7.1
+renpy-7.1*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
